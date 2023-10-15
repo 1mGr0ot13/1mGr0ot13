@@ -4,6 +4,7 @@ https://the-algorithms.com/es
 https://zealdocs.org/ (aprender a programar)
 https://codesignal.com/ (pruebas reales)
 https://www.codewars.com/ (retos)
+<br>
 
 APIs:
 https://rapidapi.com/es/hub (Todo tipo de apis)
